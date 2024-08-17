@@ -1,0 +1,3 @@
+la progra orientada a objetos (poo) es un paradigma de progra, esto es, un modelo o un estilo de progra que proporciona unas guias acerca de como trabajar con el y que esta basado en el concepto de clases y objetos. este tipo de progra se emplea para estructurar un programa de software en piezas simples y reutilizables de planos de codigo (clases) para crear instancias individuales de objetos 
+
+
